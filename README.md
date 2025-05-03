@@ -25,7 +25,7 @@ App, Category, Rating, Reviews, Size, Installs, Type, Price, Content Rating, Gen
 File: google_playstore_cleaned.csv
 
 1. Cleaned entries for better consistency and analysis:
-2. Converted installs, prices, and sizes to numerical format
+2. Converted Installs, Price, Reviews and Size to numerical format
 3. Removed duplicates and entries with missing/invalid values
 4. Encoding Type feature and extracted datetime features from Last Updated feature.
 
@@ -54,7 +54,7 @@ To explore the Google Play Store dataset to identify key trends and patterns in 
 
 
 ## 🧰 Tools Used
-1. Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+1. Python (Pandas, NumPy, Matplotlib, Seaborn)
 2. Jupyter Notebook
 
 
