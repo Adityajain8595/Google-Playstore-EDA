@@ -46,11 +46,11 @@ To explore the Google Play Store dataset to identify key trends and patterns in 
 
 ## 📊 Sample Visualizations Included
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](visuals/image.png)
+![alt text](visuals/image-1.png)
+![alt text](visuals/image-2.png)
+![alt text](visuals/image-3.png)
+![alt text](visuals/image-4.png)
 
 
 ## 🧰 Tools Used
